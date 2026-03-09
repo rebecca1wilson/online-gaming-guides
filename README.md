@@ -1,2 +1,3 @@
-# online-gaming-guides
-Articles and resources about online gaming platforms, slot providers and casino industry trends.
+# Online Gaming Guides
+
+Collection of articles and notes about online gaming platforms, slots and casino features.
